@@ -1,0 +1,15 @@
+Day 2 of #90DaysofDevOps - Exploring AWS Essentials
+
+Things I Learned Today:
+
+1. EC2 (Elastic Compute Cloud): EC2 provides scalable compute capacity in the cloud. 
+
+2. Security Group:Security groups act as virtual firewalls for your EC2 instances. 
+
+3.Tags in EC2: Tags help organize and identify your AWS resources. Explore tagging best practices here.
+
+4. Elastic IP: Elastic IPs are static IP addresses for dynamic cloud computing. Understand their usage here.
+
+Date: 15/12/2023
+
+Discovering the building blocks of AWS! What's your favorite AWS feature? Share your thoughts in the comments! #DevOps #AWS #LearningJourney

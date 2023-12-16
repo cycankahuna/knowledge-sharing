@@ -1,0 +1,12 @@
+Day 1 of #90DaysofDevOps - What I Learned About Bash Scripting
+
+Things I Learned Today:
+
+1.Variables: Used for storing data values.
+2. Sleep Command: Pauses the execution of a script for a specified duration.
+3.Arguments: Passed to a script to make it more flexible.
+4.If-else Statements: Conditional statements for decision-making.
+
+12/12/2023
+
+What's your favorite Bash scripting tip? Share your thoughts in the comments! #DevOps #BashScripting #LearningJourney

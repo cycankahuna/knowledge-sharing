@@ -1,0 +1,9 @@
+Day 3 of #90DaysofDevOps
+Things I Learned Today:
+1. Basics of ELS
+2. WHAT IS ELB
+3. Types of ELB
+4. Basics of EFS
+5. AWS-EFS
+Date: 17/12/2023
+What's your favorite DevOps tip for working with AWS? Share your thoughts in the comments! #DevOps #AWS #LearningJourney

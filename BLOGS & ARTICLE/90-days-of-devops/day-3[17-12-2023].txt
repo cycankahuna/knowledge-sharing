@@ -1,0 +1,17 @@
+Day 3 of #90DaysofDevOps - Exploring AWS Networking
+
+Things I Learned Today:
+
+Basics of ELS (Elastic Load Balancer): ELS distributes incoming application traffic across multiple targets, enhancing fault tolerance.
+
+What is ELB: ELB stands for Elastic Load Balancer, a crucial component for ensuring high availability and scalability in AWS environments.
+
+Types of ELB: There are three types of ELBs - Classic Load Balancer, Application Load Balancer, and Network Load Balancer. Each serves different use cases in AWS architecture.
+
+Basics of ELS (Elastic File System): EFS is a scalable file storage service that can be easily integrated with AWS services and on-premises resources.
+
+AWS-EFS: AWS Elastic File System provides a simple, scalable file storage solution for use with AWS Cloud services and on-premises resources.
+
+Date: 17/12/2023
+
+Unraveling the intricacies of AWS networking! What's your go-to AWS networking feature? Share your insights in the comments! #DevOps #AWS #LearningJourney
