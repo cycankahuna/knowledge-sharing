@@ -1,0 +1,12 @@
+Day 1 of #90DaysofDevOps - What I Learned About Bash Scripting
+
+Things I Learned Today:
+
+1.Variables
+2.Sleep Command
+3Arguments
+4.If-else Statements:
+
+12/12/2023
+
+#DevOps #BashScripting #LearningJourney #LearninginPublic

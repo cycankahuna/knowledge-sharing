@@ -1,0 +1,11 @@
+Day 2 of #90DaysofDevOps
+
+Things I Learned Today:
+
+EC2
+Security Group
+Tags in EC2
+Elastic IP
+Date: 15/12/2023
+
+What's your favorite DevOps tip for working with AWS? Share your thoughts in the comments! #DevOps #AWS #LearningJourney
