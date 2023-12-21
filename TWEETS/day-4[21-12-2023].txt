@@ -1,0 +1,19 @@
+Day 4 of #90DaysofDevOps - Diving into Docker and Jenkins
+
+Things I Learned Today:
+
+1. Docker
+ - What is Docker
+ - Setting up Docker Engine
+ - What are Docker Containers and Images
+ - What is Docker
+
+2. Jenkins
+ - Basics of Jenkins
+ - Problems faced before CI/CD
+ - How it helps in CI/CD
+ - How to install Jenkins
+
+Date: 21/12/2023
+
+Share your favorite Docker or Jenkins tips below! #DevOps #Docker #Jenkins #LearningJourney
