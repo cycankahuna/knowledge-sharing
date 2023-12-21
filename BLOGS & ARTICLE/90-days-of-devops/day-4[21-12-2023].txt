@@ -6,7 +6,7 @@ Things I Learned Today:
  - What is Docker
  - Setting up Docker Engine
  - What are Docker Containers and Images
- - What is Docker
+
 
 2. Jenkins
  - Basics of Jenkins
